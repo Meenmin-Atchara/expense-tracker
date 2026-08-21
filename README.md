@@ -31,12 +31,14 @@
 
 ## 🚀 การติดตั้งและเริ่มใช้งาน (Getting Started)
 
-### Prerequisites
-ต้องทำการติดตั้ง Node.js (v18 ขึ้นไป) บนเครื่องคอมพิวเตอร์ก่อน
-
 ### Installation Steps
 
-1. **Clone Repository**
+1. **Install Dependencies**
    ```bash
-   git clone [https://github.com/your-username/expense-tracker-app.git](https://github.com/your-username/expense-tracker-app.git)
-   cd expense-tracker-app
+   npm install
+   
+2. **Run Development Server**
+   ```bash
+   npm run dev
+
+เปิดเบราว์เซอร์ไปที่ http://localhost:5173 เพื่อเริ่มใช้งาน
