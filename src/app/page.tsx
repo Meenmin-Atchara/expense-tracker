@@ -102,8 +102,8 @@ export default function Home() {
               <Wallet className="w-5 h-5" />
             </div>
             <div>
-              <h1 className="text-base font-bold text-slate-900 tracking-tight">My Ledger</h1>
-              <p className="text-[10px] font-medium text-gray-400">รายรับรายจ่าย</p>
+              <h1 className="text-base font-bold text-slate-900 tracking-tight">Expense Tracker</h1>
+              <p className="text-[10px] font-medium text-gray-400">ระบบบริหารจัดการและสรุปการเงินส่วนบุคคล</p>
             </div>
           </div>
 
